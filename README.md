@@ -3,7 +3,8 @@
 ## Thông tin cá nhân
 - **Tên**: Nguyễn Nhật Minh
 - **Trường**: SaiGon University
-
+- **Email**: nnminh20012006@gmail.com
+- **Local**: TP.HCM
 <!--
 **Nhat-Minhjgp/Nhat-Minhjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
