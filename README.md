@@ -12,7 +12,7 @@
 
 ---
 
-## Tài Đạt's GitHub Stats 🌟
+## NHAT MINH GitHub Stats 🌟
 
 ⭐ **Total Stars Earned:**  
 🌿 I'm working on completing assignments  
