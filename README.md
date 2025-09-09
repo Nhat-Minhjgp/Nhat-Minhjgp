@@ -5,10 +5,8 @@
 - 🎓 I'm currently studying at **SaiGon University**.
 - 🌱 I'm currently learning new things in programming.
 - 💻 Ask me about my school projects.
-- 📫 How to reach me: **nguyennhatminh@example.com**  
-  (Replace with your actual email)
-- 🌐 [Visit my profile](https://github.com/yourusername)  
-  (Replace with your GitHub username)
+- 📫 How to reach me: **nnminh20012006@gmail.com**  
+- 🌐 [Visit my profile](https://github.com/Nhat-Minhjgp)  
 
 ---
 
