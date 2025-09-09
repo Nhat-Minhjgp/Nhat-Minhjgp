@@ -1,4 +1,8 @@
-## Hi there 👋
+# README
+
+## Thông tin cá nhân
+- **Tên**: Nguyễn Nhật Minh
+- **Trường**: SaiGon University
 
 <!--
 **Nhat-Minhjgp/Nhat-Minhjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
