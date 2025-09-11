@@ -19,4 +19,4 @@
 🌿 I'm learning to manage projects  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-(Replace `yourusername` with your GitHub username)
+
