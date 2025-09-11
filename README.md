@@ -11,12 +11,5 @@
 ---
 
 ## NHAT MINH GitHub Stats 🌟
-
-⭐ **Total Stars Earned:**  
-🌿 I'm working on completing assignments  
-🌿 I'm improving my coding skills  
-🌿 I'm exploring new programming topics  
-🌿 I'm learning to manage projects  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
 
